@@ -1,0 +1,136 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+.titulo {
+    margin-top: -40px;
+    align-items: center;
+    height: 60px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Parisienne", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.trabalhos {
+    display: flex;
+    align-items: center;
+    height: 50px;
+    width: 330px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Parisienne", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+img {
+    border: 1px black;
+    width: 440px;
+    border-radius: 5%;
+    margin: auto;
+}
+
+.fest1 {
+    display: flex;
+    padding: 5px;
+    margin-right: 70%;
+    margin-top: 20px;
+}
+
+.fest2 {
+    display: flex;
+    margin: 0 auto;
+    padding: 5px;
+    margin-top: -637px;
+}
+
+.fest3 {
+    display: flex;
+    padding: 5px;
+    margin-left: 900px;
+    margin-top: -637px;
+}
+
+.festfundo {
+    display: flex;
+    padding: 5px;
+}
+
+.festfazenda {
+    display: block;
+    padding: 5px;
+    margin-top: -564px;
+    
+}
+
+.fest6 {
+    display: flex;
+    padding: 5px;
+    margin-left: 900px;
+    margin-top: -486px;
+}
+
+.festa11 {
+    font-size: 30px;
+    display: flex;
+    margin-left: 155px;
+    font-family: "Parisienne", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: aqua;
+    width: 150px;
+}
+
+.festa22 {
+    font-size: 30px;
+    margin: 0 auto;
+    background-color: blue;
+    width: 150px;
+    font-family: "Parisienne", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.festa33 {
+    display: flex;
+    margin-left: 1055px;
+    font-size: 30px;
+    font-family: "Parisienne", cursive;
+    font-weight: 400;
+    font-style: normal;
+    width: 200px;
+}
+.textofundo{
+    font-size: 30px;
+    display: flex;
+    margin-left: 155px;
+    font-family: "Parisienne", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: aqua;
+    width: 220px;
+    margin: 0 auto;
+   
+}
+.textofazen{
+    background-color: blueviolet;
+    width: 200px;
+    font-size: 30px;
+    display: flex;
+    margin-left: 155px;
+    font-family: "Parisienne", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
