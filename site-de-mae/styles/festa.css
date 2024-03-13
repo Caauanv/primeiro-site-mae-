@@ -72,14 +72,17 @@ img {
     display: block;
     padding: 5px;
     margin-top: -564px;
-    
+
 }
 
 .fest6 {
     display: flex;
     padding: 5px;
     margin-left: 900px;
-    margin-top: -486px;
+    margin-top: -525px;
+    position: relative;
+    margin-right: 100px;
+    
 }
 
 .festa11 {
@@ -89,14 +92,12 @@ img {
     font-family: "Parisienne", cursive;
     font-weight: 400;
     font-style: normal;
-    background-color: aqua;
     width: 150px;
 }
 
 .festa22 {
     font-size: 30px;
     margin: 0 auto;
-    background-color: blue;
     width: 150px;
     font-family: "Parisienne", cursive;
     font-weight: 400;
@@ -112,25 +113,35 @@ img {
     font-style: normal;
     width: 200px;
 }
-.textofundo{
+
+.textofundo {
     font-size: 30px;
     display: flex;
     margin-left: 155px;
     font-family: "Parisienne", cursive;
     font-weight: 400;
     font-style: normal;
-    background-color: aqua;
     width: 220px;
     margin: 0 auto;
-   
+
 }
-.textofazen{
-    background-color: blueviolet;
+
+.textofazen {
     width: 200px;
     font-size: 30px;
     display: flex;
-    margin-left: 155px;
+    margin-left: 135px;
     font-family: "Parisienne", cursive;
     font-weight: 400;
     font-style: normal;
+}
+
+.festa66 {
+    display: flex;
+    margin-left: 1035px;
+    font-size: 30px;
+    font-family: "Parisienne", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
 }
