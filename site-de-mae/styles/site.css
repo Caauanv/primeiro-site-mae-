@@ -7,12 +7,9 @@ body {
 }
 
 
-.logo{
-margin-top: -125px;
-margin-left: 220px;
-Clip-path: circle;
-border-radius: 50%;
-
+.logo {
+	margin-top: -125px;
+	margin-left: 220px;
 }
 
 .title {
@@ -89,36 +86,44 @@ li.active a {
 	margin-left: auto;
 	margin-right: auto;
 	font-size: large;
+	background-color: rgb(255, 255, 255);
+	width: 400px;
 
 }
-img{
+
+img {
 	border-radius: 5%;
 }
-.center-about{
+
+.center-about {
 	display: flex;
 	justify-content: center;
 	margin-top: 16px;
+	
 }
-.imagem{
+ /*problema aq de margem*/
+.imagem {
 	flex-direction: row-reverse;
 	display: flex;
 }
-.imagem .about{
+
+.imagem .about {
 	margin-right: 50px;
-	max-width: 250px;
-	margin-left: 150px;
+	margin-left: -345px;
 	width: 300px;
 }
-.imagem img{
+
+.imagem img {
 	width: 600px;
-	margin-right: 488px;
 }
-p{
+
+p {
 	align-items: center;
 	display: flex;
 
 }
-.numero{
+
+.numero {
 	text-align: center;
 	display: flex;
 	width: auto;
@@ -126,7 +131,7 @@ p{
 	line-height: 17px;
 	max-width: 420px;
 	font-size: 20px;
-	color: #fff;
+	color: #ffffff;
 
 }
 
@@ -261,4 +266,3 @@ input[type="submit"] {
 	text-align: left;
 	font-weight: bold;
 }
-
